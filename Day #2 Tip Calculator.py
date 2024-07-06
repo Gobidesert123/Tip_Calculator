@@ -6,3 +6,4 @@ total = (total_bill * (tip/100) + total_bill)/split_between
 r_total = round(total, 2)
 print(f"Each person should pay: $ {r_total}")
 print("new change")
+print("new change 1")
